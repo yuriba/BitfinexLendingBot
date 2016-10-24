@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/eAndrius/bitfinex-go"
+	"github.com/yuriba/bitfinex-go"
 )
 
 // CascadeBotConf ...

@@ -1,5 +1,4 @@
 package: main
 
 import:
-  - package: github.com/eAndrius/bitfinex-go
-  
+  - package: github.com/yuriba/bitfinex-go

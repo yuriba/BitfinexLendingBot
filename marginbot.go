@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/eAndrius/bitfinex-go"
+	"github.com/yuriba/bitfinex-go"
 )
 
 // MarginBotConf ...

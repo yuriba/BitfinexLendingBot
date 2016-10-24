@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/eAndrius/bitfinex-go"
+	"github.com/yuriba/bitfinex-go"
 )
 
 func TestMarginBotGetLoanOffers_MinDailyLendRate(t *testing.T) {
